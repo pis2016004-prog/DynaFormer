@@ -19,8 +19,8 @@ To load a network, use the --module argument when running the train script (``--
 ### Model weights
 You can download the learned weights of the DAEFormer in the following table. 
 
-Task | Dataset 
------------- | -------------|----
+ Dataset 
+
 Multi organ segmentation | [Synapse](https://drive.google.com/uc?export=download&id=18I9JHH_i0uuEDg-N6d7bfMdf7Ut6bhBi) 
 
 ### Training and Testing
